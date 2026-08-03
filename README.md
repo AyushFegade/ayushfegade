@@ -1,16 +1,45 @@
-## Hi there 👋
+# Exploratory Data Analysis (EDA) - Phase 1
 
-<!--
-**AyushFegade/ayushfegade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Student Details
 
-Here are some ideas to get you started:
+- **Name:** Ayush Fegade
+- **Registration Number:** 23BDS0042
+- **Course:** Exploratory Data Analysis (EDA)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Project Description
+
+This repository contains the Phase 1 Exploratory Data Analysis (EDA) assignment performed on the **Penguins Size Dataset**.
+
+## Tasks Performed
+
+- Loading the dataset
+- Basic statistical analysis
+- Handling missing values
+- Data cleaning
+- Data transformation
+- Univariate analysis (3 visualizations)
+- Bivariate analysis (3 visualizations)
+- Multivariate analysis (3 visualizations)
+
+## Dataset
+
+- Penguins Size Dataset (`penguins_size.csv`)
+
+## Tools Used
+
+- Google Colab
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+
+## Repository Contents
+
+- `ayushfegade.ipynb` – Jupyter Notebook containing the complete EDA analysis.
+- `README.md` – Project overview.
+
+## Author
+
+**Ayush Fegade**
