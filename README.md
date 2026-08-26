@@ -40,6 +40,3 @@ This repository contains the Phase 1 Exploratory Data Analysis (EDA) assignment 
 - `ayushfegade.ipynb` – Jupyter Notebook containing the complete EDA analysis.
 - `README.md` – Project overview.
 
-## Author
-
-**Ayush Fegade**
